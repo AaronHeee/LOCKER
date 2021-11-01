@@ -7,7 +7,7 @@ Conference on Information and Knowledge Management (CIKM) 2022.
 
 Please cite our paper if using this code. This code can run on single 2080 super GPU (8GiB).
 
-<img src="https://github.com/AaronHeee/LOCKER/blob/main/img/curve.jpg" width="600"/>
+<img src="https://github.com/AaronHeee/LOCKER/blob/main/img/curve.jpg" width="400"/>
 
 ## Dependencies
 
