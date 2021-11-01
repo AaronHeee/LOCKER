@@ -1,9 +1,11 @@
 # LOCKER
-Locally Constrained Self-Attentive Sequential Recommendation
 
 This is the pytorch implementation of this paper:
 
-[Locally Constrained Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm21.pdf). CIKM 2022, short.
+[Locally Constrained Self-Attentive Sequential Recommendation](https://cseweb.ucsd.edu/~jmcauley/pdfs/cikm21.pdf). Zhankui He, Handong Zhao, Zhe Lin, Zhaowen Wang, Ajinkya Kale, Julian McAuley.
+Conference on Information and Knowledge Management (CIKM) 2022.
+
+![Curve](img/curve.jpg)
 
 Please cite our paper if using this code. This code can run on single 2080 super GPU (8GiB).
 
